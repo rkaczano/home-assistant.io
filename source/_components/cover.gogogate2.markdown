@@ -30,7 +30,7 @@ cover:
 
 {% configuration %}
 username:
-  description: Your Gogogate2 account username.
+  description: Your Gogogate2 account username or admin.
   required: true
   type: string
 password:
